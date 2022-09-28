@@ -67,7 +67,7 @@
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  </p>
-<p><img  style="margin-top:7px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=maga002&show_icons=true&locale=en&layout=compact" alt="maga002" /></p>
+<p align="center"><img  style="margin-top:7px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=maga002&show_icons=true&locale=en&layout=compact" alt="maga002" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maga002&show_icons=true&locale=en" alt="maga002" /></p>
 
