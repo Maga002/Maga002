@@ -71,4 +71,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=maga002&show_icons=true&locale=en" alt="maga002" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maga002&" alt="maga002" /></p>
+<p align="center"><img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maga002&" alt="maga002" /></p>
