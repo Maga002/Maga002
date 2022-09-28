@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahammad Gulalov</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-
+<p align="right"> <img src="[https://komarev.com/ghpvc/?username=maga002&label=Profile%20views&color=0e75b6&style=flat](https://www.google.az/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&tbnid=3KL3RFvTk03ieM&vet=12ahUKEwjrl5bPw7j6AhWJNuwKHT76CvwQMygDegUIARD2AQ..i&docid=wC1y6bJ6OPI5TM&w=498&h=277&q=programming%20img%20gif&ved=2ahUKEwjrl5bPw7j6AhWJNuwKHT76CvwQMygDegUIARD2AQ)" alt="maga002" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maga002&label=Profile%20views&color=0e75b6&style=flat" alt="maga002" /> </p>
 
 - 🌱 I’m currently learning **Microservices and Deployment.**
