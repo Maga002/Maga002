@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahammad Gulalov</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
 <div style="display-flex;">
- <img align="right" style="width:380px;" style="border-radius:20px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_191UnOfz2ilugR9IZ3YSXocGix6alqgp6A&usqp=CAU" alt="maga002" />
+ <img align="right" style="width:380px;" style="border-radius:20px;" src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" alt="maga002" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maga002&label=Profile%20views&color=0e75b6&style=flat" alt="maga002" /> </p>
 
 - 🌱 I’m currently learning **Microservices and Deployment.**
