@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahammad Gulalov</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img style="width:100%;" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 - 👨‍💻 All of my projects are available at [https://gmport.herokuapp.com/](https://gmport.herokuapp.com/)
 
