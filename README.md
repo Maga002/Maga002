@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahammad Gulalov</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-<img style="width:900px;" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img style="width:900px;" src="[https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif](https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)">
 
 - 👨‍💻 All of my projects are available at [https://gmport.herokuapp.com/](https://gmport.herokuapp.com/)
 
