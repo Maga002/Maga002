@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahammad Gulalov</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/lP8xu5t2DLGG045H8F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maga002&label=Profile%20views&color=0e75b6&style=flat" alt="maga002" /> </p>
+<iframe src='https://gfycat.com/ifr/ExemplaryFairFeline' frameborder='0' scrolling='no' allowfullscreen width='640' height='524'></iframe><p> <a href="https://gfycat.com/exemplaryfairfeline">via Gfycat</a></p>
 
 - 👨‍💻 All of my projects are available at [https://gmport.herokuapp.com/](https://gmport.herokuapp.com/)
 
