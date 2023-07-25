@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Java, C#, Spring/Spring Boot, Postgres, Docker.**
 
-- 📫 How to reach me **softdevgm@gmail.com**
+- 📫 How to reach me **mahammadgulalov@gmail.com**
 
 </div>
 
