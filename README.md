@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Microservices and Deployment.**
 
-- 👨‍💻 All of my projects are available at [https://gmport.herokuapp.com/](https://gmport.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://maga002.github.io/GMP/)
 
 - 💬 Ask me about **React, Java, C#, Spring/Spring Boot, Postgres, Docker.**
 
